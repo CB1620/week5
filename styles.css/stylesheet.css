@@ -1,3 +1,8 @@
 .capital{
-    color: red
+    color: red;
+}
+
+
+h2.paris.capital{
+    background-color: beige;
 }
