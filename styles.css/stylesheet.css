@@ -3,6 +3,11 @@
 }
 
 
-h2.paris.capital{
+#ottawa{
     background-color: beige;
+}
+
+.span{
+    padding-left: 5px;
+    padding-right: 5px;
 }
