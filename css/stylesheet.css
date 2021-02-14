@@ -9,3 +9,8 @@ color: #002199;
 span{
     display: block;
 }
+
+nav{
+    text-align: center;
+    background-color: lightblue;
+}
